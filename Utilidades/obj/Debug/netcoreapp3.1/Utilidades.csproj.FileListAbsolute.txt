@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\BlogCore\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.deps.json
+C:\Users\pc\source\repos\BlogCore\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\pc\source\repos\BlogCore\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.pdb
+C:\Users\pc\source\repos\BlogCore\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\BlogCore\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\BlogCore\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.AssemblyInfo.cs
+C:\Users\pc\source\repos\BlogCore\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\pc\source\repos\BlogCore\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.pdb
+C:\Users\pc\source\repos\BlogCore\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.csprojAssemblyReference.cache
